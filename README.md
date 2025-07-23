@@ -31,6 +31,14 @@ Located in `/wxo_lab`, this module covers:
 - Hands-on orchestration exercises
 - Importing external agents
 
+
+### 4. Salesforce x Watsonx Orchestrate integration Lab
+Located in `/salesforce_lab`, this module covers:
+- Detailed walkthrough of integration Salesforce with watsonx Orchestrate
+- Hands-on orchestration exercise
+- Importing prebuilt Salesforce agent
+
+
 ## Getting Started
 
 1. Each lab directory contains its own README with specific instructions
