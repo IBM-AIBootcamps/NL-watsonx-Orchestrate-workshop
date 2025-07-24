@@ -1,6 +1,6 @@
-# 🤖 watsonx Agentic AI Bootcamp
+# 🤖 Damen: watsonx Orchestrate labs
 
-Welcome to the AI Bootcamp materials repository! This technical exchange event focuses on practical implementation of AI Agents using IBM watsonx platform and Agent Development Kit (ADK).
+Welcome to the watsonx Orchestrate materials repository! This technical event focuses on practical implementation of AI Agents using IBM watsonx platform and Agent Development Kit (ADK).
 
 ![Image title](/instructors.png)
 
